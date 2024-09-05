@@ -7,7 +7,7 @@
   },
   "homepage": "https://fosslight.org",
   "displayName": "FOSSLight Scanner",
-  "publisher": "lgopensource",
+  "publisher": "persi",
   "description": "A VSCode Extension made for the convenient use of FOSSLight Scanner",
   "icon": "foss_logo.png",
   "version": "0.0.3",
